@@ -1,0 +1,3 @@
+<br><br>
+<b>Sejauh mana saya paham? Saatnya latihan:</b>
+<input type="text" id="kode" placeholder="Masukkan kode..." /> <button onclick="cekKode()">Masuk</button> <p id="pesan-error"></p>
